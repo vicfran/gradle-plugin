@@ -1,6 +1,6 @@
 Gradle-plugin 
 ======================
-[![Build Status](https://travis-ci.org/vicfran/gradle-dev.svg?branch=master)](https://travis-ci.org/vicfran/gradle-dev)
+[![Build Status](https://travis-ci.org/vicfran/gradle-plugin.svg?branch=master)](https://travis-ci.org/vicfran/gradle-plugin)
 
 This repo is thought as a Gradle plugins repository. Trying to dive deep inside Gradle fundamentals.
 
